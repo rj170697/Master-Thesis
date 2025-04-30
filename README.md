@@ -77,8 +77,8 @@ After measuring the known surfaces and achieving satifactorz result the system i
 
 The image below illustrates a membrane with an induced radius of curvature. This defect was detected prior to the bonding process and filtered out, helping to save time and resources while improving overall process efficiency. The peak-to-valley (P-V) measurement of the membrane was 37.3 µm.
 
+![image](https://github.com/user-attachments/assets/0b8249da-1fb2-49b5-ac24-e6eeae82ad69)
 
-![image](https://github.com/user-attachments/assets/d712401f-ba85-4eb1-b8f6-db5e4e900cd4)
 
 
 
