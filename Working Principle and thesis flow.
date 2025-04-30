@@ -1,4 +1,4 @@
- 
+git add notes.txt 
 Working Principle - 
 A piezoelectric actuator plays a crucial role in dynamically adjusting the shape of the membrane, which serves as the foundation for the attached mirror. This adjustment 
 is achieved by applying a controlled voltage input, which induces a mechanical deformation in the actuator due to the piezoelectric effect. As the voltage varies, 
