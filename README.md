@@ -1,4 +1,4 @@
-# Master-Thesis
+### Master-Thesis
 Optimization of Production Process
 
 
@@ -10,3 +10,11 @@ Additionally, this thesis presents an in-depth analysis of the outcomes observed
 
 
 ![image](https://github.com/user-attachments/assets/4f200a7c-61b7-45e4-871d-da20be279a1a)
+
+
+###Plan of Action.
+
+![image](https://github.com/user-attachments/assets/7a28166f-125f-4bb9-86bb-9792129f1542)
+
+
+
