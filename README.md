@@ -39,7 +39,7 @@ Additionally, this thesis presents an in-depth analysis of the outcomes observed
 
 
 
-### Resuslts after Measruing Known Sufaces.
+### Resuslts after Measuring Known Sufaces.
 
 Concave Mirror with Radius of Curvature 2000mm
 
@@ -73,9 +73,8 @@ Measured Radius of curvature by suface inspection system -  1086, 78mm
 
 
 
-After measuring the known surfaces and achieving satifactorz result the system is integrated into the production flow. To measure the membrane shape and irregularitites.
+After validating the system by measuring known surfaces and obtaining satisfactory results, it was integrated into the production flow to assess membrane shape and detect irregularities. The image below shows a membrane exhibiting an induced radius of curvature—a defect identified before the bonding stage. By detecting and filtering it early, the process avoided unnecessary use of time and costly materials, thereby enhancing overall efficiency. The membrane’s peak-to-valley (P-V) measurement was 37.3 µm.
 
-The image below illustrates a membrane with an induced radius of curvature. This defect was detected prior to the bonding process and filtered out, helping to save time and resources while improving overall process efficiency. The peak-to-valley (P-V) measurement of the membrane was 37.3 µm.
 
 ![image](https://github.com/user-attachments/assets/0b8249da-1fb2-49b5-ac24-e6eeae82ad69)
 
