@@ -43,7 +43,7 @@ Additionally, this thesis presents an in-depth analysis of the outcomes observed
 
 Concave Mirror with Radius of Curvature 2000mm
 
-Measured Radius of curvature by suface inspection system -  2061,13mm 
+Measured Radius of curvature by suface inspection system -  2061,13mm +/- 2.94mm
 
 
 ![image](https://github.com/user-attachments/assets/6bf3ed36-38f2-4f73-906c-a4ff9d5bbc19)
@@ -55,7 +55,7 @@ Measured Radius of curvature by suface inspection system -  2061,13mm
 
 Convex Mirror with Radius of Curvature 4000mm
 
-Measured Radius of curvature by suface inspection system -  4344,38mm 
+Measured Radius of curvature by suface inspection system -  4344,38mm +/- 11.92
 
 
 
@@ -66,7 +66,7 @@ Measured Radius of curvature by suface inspection system -  4344,38mm
 
 Concave Mirror with Radius of Curvature 1000mm
 
-Measured Radius of curvature by suface inspection system -  1086, 78mm
+Measured Radius of curvature by suface inspection system -  1086, 78mm +/- 3,54
 
 
 ![image](https://github.com/user-attachments/assets/03e7f6b3-94ef-4b79-b7b5-38ecc2260338)
